@@ -4,7 +4,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  'script':
+  "script":
 {
    "dev": "next dev",
              ==>  "build": "next build", 
