@@ -4,13 +4,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "script":
-{
-   "dev": "next dev",
-   "build": "next build", 
-    "start": "next start",
-    "lint": "next lint"
-},
+ 
   "devDependencies": {
     "autoprefixer": "^10.4.13",
     "postcss": "^8.4.21",
